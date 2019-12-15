@@ -262,6 +262,7 @@ h3, h4 {
 	z-index: 1;
 	background: url(../img/1920x1080/02.jpg) center center no-repeat fixed;
 	background-size: cover;
+	
 	min-height: 100%
 }
 .promo-banner:before {
