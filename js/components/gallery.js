@@ -10,12 +10,6 @@ const IMAGES = [
 	"img/gallery/7.JPG",
 	"img/gallery/8.JPG",
 	"img/gallery/9.JPG",
-	"img/gallery/10.JPG",
-	"img/gallery/11.JPG",
-	"img/gallery/12.JPG",
-	"img/gallery/13.JPG",
-	"img/gallery/14.JPG",
-	"img/gallery/15.JPG",
 
 
 ];
